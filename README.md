@@ -1,1 +1,1 @@
-getting familiar rwith linux
+getting familiar with linux
